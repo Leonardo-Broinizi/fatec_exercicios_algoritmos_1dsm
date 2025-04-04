@@ -1,0 +1,19 @@
+{
+    "name": "aula9",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scrips": {
+        "um": "node ./scr/um",
+        "dois": "node ./scr/dois",
+        "tres": "node ./scr/tres",
+        "quatro": "node ./scr/quatro",
+        "cinco": "node ./scr/cinco",
+        "seis": "node ./scr/seis",
+        "sete": "node ./scr/sete",
+        "oito": "node ./scr/oito"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
