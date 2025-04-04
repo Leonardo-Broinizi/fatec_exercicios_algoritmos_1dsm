@@ -3,3 +3,4 @@ function conversor_endereco_json(endereco) {
 
     }
 }
+ // Preciso descobrir como fazer um json estruturado a partir de uma variável string. 
